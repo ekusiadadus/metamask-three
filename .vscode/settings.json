@@ -1,0 +1,6 @@
+{
+  "files.trimTrailingWhitespace": true,
+  "vim.useSystemClipboard": true,
+  "prettier.enable": true,
+  "html.format.enable": true
+}
